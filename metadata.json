@@ -1,0 +1,6 @@
+{
+  "name": "Music Master VIP",
+  "description": "Professional high-fidelity music player with 10-band equalizer, synced lyrics, visualizer, sleep timer, and VIP subscription system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
